@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first console.log("Hello, world!")<br>📚 I'm currently working with Next.js (App Router), Tailwind CSS and Prismic, focused on building modular and responsive interfaces<br>🎯 Goals: Improve my skills with modern frameworks like Next.js, Vue.js, and AngularJS, and deepen my experience with RESTful APIs in front-end development<br>🎲 Fun fact: I can't rest until I understand exactly why something broke — even if it's an invisible CSS issue<br>🌐 Portfolio: https://meuportifolio.dev</p>
+<p align="left">✨ Creating bugs since I wrote my first console.log("Hello, world!")<br>📚 I'm currently working with Next.js (App Router), Tailwind CSS and Prismic, focused on building modular and responsive interfaces<br>🎯 Goals: Improve my skills with modern frameworks like Next.js, Vue.js, and AngularJS, and deepen my experience with RESTful APIs in front-end development<br>🎲 Fun fact: I can't rest until I understand exactly why something broke — even if it's an invisible CSS issue<br>🌐 Portfolio: https://ovidiojcf.site</p>
 
 ###
 
