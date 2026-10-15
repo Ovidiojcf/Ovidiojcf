@@ -1,68 +1,103 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Ovídio José Corrêa Farias
 
-###
+### Front-End Developer | React · Next.js · TypeScript
 
-<p align="left">My name is Ovídio Fairias and I'm a Front End Developer,  from Santarém, Pará, Brasil.</p>
+I'm a Front-End Developer from Santarém, Pará, Brazil, focused on building responsive web interfaces, reusable components, and maintainable applications.
 
-###
+My experience includes developing web interfaces with **Next.js, TypeScript, Vue.js, and Tailwind CSS**, integrating REST APIs, and working with CMS platforms such as Prismic. I also have experience with state management, Git workflows, and application integrations.
 
-<h2 align="left">About me</h2>
+I'm currently expanding my knowledge of **React and modern front-end architecture**, with a focus on code quality, performance, accessibility, and delivering solutions that meet real user and business needs.
 
-###
+- 🌐 **Portfolio:** [ovidiojcf.site](https://ovidiojcf.site)
+- 💼 **LinkedIn:** [linkedin.com/in/ovidiojcf](https://www.linkedin.com/in/ovidiojcf/)
+- 📍 **Location:** Santarém, Pará, Brazil
+- 🌱 **Currently learning:** React, modern front-end patterns, and application architecture
+- 🔎 **Interests:** Web development, API integration, component architecture, and performance optimization
 
-<p align="left">✨ Creating bugs since I wrote my first console.log("Hello, world!")<br>📚 I'm currently working with Next.js (App Router), Tailwind CSS and Prismic, focused on building modular and responsive interfaces<br>🎯 Goals: Improve my skills with modern frameworks like Next.js, Vue.js, and AngularJS, and deepen my experience with RESTful APIs in front-end development<br>🎲 Fun fact: I can't rest until I understand exactly why something broke — even if it's an invisible CSS issue<br>🌐 Portfolio: https://ovidiojcf.site</p>
+---
 
-###
+## Featured Projects
 
-<h2 align="left">I code with</h2>
+### 🦸 [Marvel Explorer](https://github.com/Ovidiojcf/api-marvel)
 
-###
+An interactive Marvel universe explorer built with Vue 3, Vite, and Pinia, integrating the official Marvel API to browse characters, series, and comics.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+- Integrated an external REST API to retrieve Marvel content.
+- Implemented character search and pagination.
+- Built a favorites system with persistent storage using `localStorage`.
+- Organized the application into reusable components, services, stores, and routes.
+- Developed a responsive interface with Tailwind CSS.
 
-###
-<h2 align="left">My social medias</h2>
+**Tech stack:** Vue 3 · JavaScript · Pinia · Vue Router · Axios · Tailwind CSS
 
-<div align="left">
-  <a href="www.linkedin.com/in/ovidiojcf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/oviddio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
+### ⚖️ [Deborah Tapajós — Institutional Landing Page](https://github.com/Ovidiojcf/deborah-tapajos-lp)
 
-###
-<h2 align="left">Git Status</h2>
+A responsive institutional landing page built to establish a professional online presence and facilitate client contact.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ovidiojcf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ovidiojcf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Developed with Next.js App Router and TypeScript.
+- Created reusable components and responsive page sections.
+- Structured service presentation using a consistent visual system.
+- Implemented SEO metadata and Open Graph configuration.
+- Integrated a WhatsApp CTA to facilitate communication.
 
-###
-<h2 align="left">Connect with me on Spotify</h2>
+**Tech stack:** Next.js · TypeScript · Tailwind CSS · Lucide React
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ojcfarias">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ojcfarias&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+---
+
+
+
+**Key implementations:**
+- Responsive, mobile-first interface using Next.js App Router and Tailwind CSS.
+- Type-safe development with TypeScript.
+- Reusable components and organized page sections.
+- Service presentation with a structured grid layout.
+- WhatsApp contact CTA to facilitate communication.
+- SEO metadata, Open Graph configuration, and semantic HTML.
+- Consistent visual identity and responsive navigation.
+
+**Tech stack:** Next.js · TypeScript · Tailwind CSS · Lucide React
+
+---
+
+## Tech Stack
+
+### Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Angular and Tailwind CSS" />
+</p>
+
+### Tools & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,firebase,supabase" alt="Git, GitHub, Postman, Figma, Firebase and Supabase" />
+</p>
+
+- **APIs & Integrations:** REST APIs, webhooks, and third-party services.
+- **CMS:** Prismic.
+- **State Management:** Pinia.
+- **Additional experience:** n8n, HubSpot integrations, and CRM workflows.
+
+---
+
+## Professional Experience Highlights
+
+- **Component-based development:** Built reusable UI components and responsive interfaces using modern front-end frameworks.
+- **CMS integration:** Developed interfaces connected to Prismic, enabling content updates through a CMS.
+- **API integration:** Worked with REST APIs, authentication flows, and protected routes in web application projects.
+- **Integration workflows:** Gained additional experience connecting services, working with webhooks, and supporting CRM automation.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ovidiojcf&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovidiojcf&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
